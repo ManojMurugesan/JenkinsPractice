@@ -3,6 +3,7 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
         System.out.println("Hello Manoj"); 
         System.out.println("Good morning"); 
+        System.out.println("Git commit and push"); 
 
     }
 }
